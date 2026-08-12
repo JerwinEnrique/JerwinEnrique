@@ -1,18 +1,128 @@
-# 💫 About Me:
-Software | AI/Machine Learning | Web Developer | Robotics | Mobile App Development<br><br>I'm a hardworking and motivated Computer Engineering student at Jose Rizal University with hands-on IT support experience and a growing skill set across web development, mobile app development (Flutter/Android Studio), databases, AI/ML, cloud computing, and robotics/embedded systems (PCB design, Raspberry Pi, Arduino). I'm able to work well in a team, communicate effectively, and adapt quickly in fast-paced environments — and I'm always willing to learn and gain new experience while providing excellent service. I also served as CTO of the AWS Learning Community (AWSLC) JRU chapter (2024–2025), leading technical initiatives and AI/cloud learning sessions for fellow students, and as Director of Sports for ICpEP for two consecutive terms (2023–2026), which strengthened my teamwork, leadership, communication, and adaptability. I also worked briefly as a Customer Service Representative at Teleperformance, gaining real customer-facing experience. My undergraduate thesis is on an IoT-based Balance and Tremor Exercise Board for Parkinson's patients with blood pressure monitoring and an Android application.<br><br>IT & Hardware Support Hands-on OJT experience installing, configuring, and troubleshooting computer hardware, software, and network connections.
+<div align="center">
 
+<!-- Header banner -->
+<img src="https://media3.giphy.com/media/xUOxf48UBRhhEfoYSk/giphy.gif" width="100%" height="220" style="object-fit:cover; border-radius:12px;" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jerwin-enrique-3150a6376) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jerwinenrique14@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jerwinenrique&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jerwinenrique&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jerwinenrique&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Jerwin+%F0%9F%91%8B;Computer+Engineering+Student;AI%2FML+%7C+Mobile+Dev+%7C+Robotics;Building+useful+things+with+code+%26+circuits&center=true&width=600&height=50&font=Fira+Code&pause=1000&color=00979D&size=20" />
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=jerwinenrique&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" height="180"/>
+
+### 🧭 About Me
+
+- 🎓 **Computer Engineering Student** — Jose Rizal University
+- 🤖 Working across **AI/ML, mobile apps (Flutter/Android Studio), web dev, databases, and embedded systems** (PCB design, Raspberry Pi, Arduino)
+- 🛠️ Hands-on **IT support & hardware troubleshooting** experience from OJT
+- 🧑‍💼 Former **CTO, AWS Learning Community (AWSLC) — JRU Chapter** (2024–2025)
+- 🏸 **Director of Sports, ICpEP** — two consecutive terms (2023–2026)
+- ☎️ Former **Customer Service Representative @ Teleperformance**
+- 📍 Philippines
+
+**Goal:** Build practical tech — software, AI, and hardware — that actually helps people.
+
+<br clear="right"/>
+
+---
+
+### 🏅 Certifications
+
+<div align="center">
+
+| Badge | Certification |
+|-------|--------------|
+| ☁️ | **AWS Certified Cloud Practitioner** |
+| 💻 | **CompTIA ITF+** |
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS%20Cloud-Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/CompTIA-ITF%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white"/>
+
+</div>
+
+---
+
+### ⚔️ Tech Arsenal
+
+#### 🧠 AI / ML
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Claude-D4A017?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
+
+</div>
+
+#### ⚙️ Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,dart,kotlin,php,js,html,css,react,nextjs,tailwind,mysql,aws,firebase,docker,figma,vercel&perline=18" />
+</div>
+
+---
+
+### 🚀 Projects
+
+| ⚓ Project | 💡 Description | 🛠️ Stack |
+|-----------|---------------|---------|
+| 🩺 **IoT Balance & Tremor Exercise Board** | Thesis — assistive device for Parkinson's patients with balance/tremor exercises and blood pressure monitoring, paired with a companion Android app | Arduino, Embedded IoT, Android |
+
+<sub>More projects coming soon — let me know if you'd like to add any.</sub>
+
+---
+
+### 🏅 Leadership & Achievements
+
+- 🧑‍💻 **CTO — AWS Learning Community (AWSLC) JRU Chapter** (2024–2025) — led technical initiatives and AI/cloud learning sessions
+- 🏸 **Director of Sports — ICpEP** (2023–2026, two consecutive terms)
+- ☎️ **Customer Service Representative — Teleperformance**
+- 🔧 **IT & Hardware Support (OJT)** — installed, configured, and troubleshot hardware, software, and network connections
+
+---
+
+### 📊 Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=jerwinenrique&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=jerwinenrique&theme=dark&hide_border=false" height="150"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jerwinenrique&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
+</div>
+
+---
+
+### 🌐 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jerwin-enrique-3150a6376">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jerwinenrique14@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00979D,100:0A4A4C&height=100&section=footer"/>
+</div>
+
+<div align="center">
+
+[![](https://komarev.com/ghpvc/?username=jerwinenrique&icon=0&color=00979D)](https://visitcount.itsvg.in)
+
+<sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub>
+
+</div>
