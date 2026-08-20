@@ -22,7 +22,7 @@
 * 🤖 Working across **AI/ML, mobile apps (Flutter/Android Studio), web dev, databases, and embedded systems** (PCB design, Raspberry Pi, Arduino)
 * 🛠️ Hands-on **IT support & hardware troubleshooting** experience from OJT
 * 🧑‍💼 Former **CTO, AWS Learning Community (AWSLC) — JRU Chapter** (2024–2025)
-* 🏸 **Director of Sports, ICpEP** — two consecutive terms (2023–2026)
+* 🏸 Former **Director of Sports, ICpEP** — two consecutive terms (2023–2026)
 * ☎️ Former **Customer Service Representative @ Teleperformance**
 * 📍 Philippines
 
