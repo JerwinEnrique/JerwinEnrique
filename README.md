@@ -1,11 +1,13 @@
 <div align="center">
 
 <!-- Header banner -->
+
 <img src="https://media3.giphy.com/media/xUOxf48UBRhhEfoYSk/giphy.gif" width="100%" height="220" style="object-fit:cover; border-radius:12px;" />
 
 <br/>
 
 <!-- Typing SVG -->
+
 <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Jerwin+%F0%9F%91%8B;Computer+Engineering+Student;AI%2FML+%7C+Mobile+Dev+%7C+Robotics;Building+useful+things+with+code+%26+circuits&center=true&width=600&height=50&font=Fira+Code&pause=1000&color=00979D&size=20" />
 
 </div>
@@ -16,13 +18,13 @@
 
 ### 🧭 About Me
 
-- 🎓 **Computer Engineering Student** — Jose Rizal University
-- 🤖 Working across **AI/ML, mobile apps (Flutter/Android Studio), web dev, databases, and embedded systems** (PCB design, Raspberry Pi, Arduino)
-- 🛠️ Hands-on **IT support & hardware troubleshooting** experience from OJT
-- 🧑‍💼 Former **CTO, AWS Learning Community (AWSLC) — JRU Chapter** (2024–2025)
-- 🏸 **Director of Sports, ICpEP** — two consecutive terms (2023–2026)
-- ☎️ Former **Customer Service Representative @ Teleperformance**
-- 📍 Philippines
+* 🎓 **Computer Engineering Student** — Jose Rizal University
+* 🤖 Working across **AI/ML, mobile apps (Flutter/Android Studio), web dev, databases, and embedded systems** (PCB design, Raspberry Pi, Arduino)
+* 🛠️ Hands-on **IT support & hardware troubleshooting** experience from OJT
+* 🧑‍💼 Former **CTO, AWS Learning Community (AWSLC) — JRU Chapter** (2024–2025)
+* 🏸 **Director of Sports, ICpEP** — two consecutive terms (2023–2026)
+* ☎️ Former **Customer Service Representative @ Teleperformance**
+* 📍 Philippines
 
 **Goal:** Build practical tech — software, AI, and hardware — that actually helps people.
 
@@ -34,10 +36,10 @@
 
 <div align="center">
 
-| Badge | Certification |
-|-------|--------------|
-| ☁️ | **AWS Certified Cloud Practitioner** |
-| 💻 | **CompTIA ITF+** |
+| Badge | Certification                        |
+| ----- | ------------------------------------ |
+| ☁️    | **AWS Certified Cloud Practitioner** |
+| 💻    | **CompTIA ITF+**                     |
 
 </div>
 
@@ -72,20 +74,50 @@
 
 ### 🚀 Projects
 
-| ⚓ Project | 💡 Description | 🛠️ Stack |
-|-----------|---------------|---------|
+| ⚓ Project                                  | 💡 Description                                                                                                                                      | 🛠️ Stack                      |
+| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
 | 🩺 **IoT Balance & Tremor Exercise Board** | Thesis — assistive device for Parkinson's patients with balance/tremor exercises and blood pressure monitoring, paired with a companion Android app | Arduino, Embedded IoT, Android |
 
-<sub>More projects coming soon — let me know if you'd like to add any.</sub>
+<div align="center">
+
+<a href="https://jerwin-enrique-portfolio.vercel.app/#/">
+  <img src="https://img.shields.io/badge/🚀%20Explore%20More%20Projects-00979D?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+### 🌐 Portfolio
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PORTFOLIO-00979D?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<br/><br/>
+
+**Explore my complete portfolio featuring my projects, technical skills, experience, and achievements.**
+
+<br/>
+
+<a href="https://jerwin-enrique-portfolio.vercel.app/#/">
+  <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-0A4A4C?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<sub>🌐 <b>jerwin-enrique-portfolio.vercel.app</b></sub>
+
+</div>
 
 ---
 
 ### 🏅 Leadership & Achievements
 
-- 🧑‍💻 **CTO — AWS Learning Community (AWSLC) JRU Chapter** (2024–2025) — led technical initiatives and AI/cloud learning sessions
-- 🏸 **Director of Sports — ICpEP** (2023–2026, two consecutive terms)
-- ☎️ **Customer Service Representative — Teleperformance**
-- 🔧 **IT & Hardware Support (OJT)** — installed, configured, and troubleshot hardware, software, and network connections
+* 🧑‍💻 **CTO — AWS Learning Community (AWSLC) JRU Chapter** (2024–2025) — led technical initiatives and AI/cloud learning sessions
+* 🏸 **Director of Sports — ICpEP** (2023–2026, two consecutive terms)
+* ☎️ **Customer Service Representative — Teleperformance**
+* 🔧 **IT & Hardware Support (OJT)** — installed, configured, and troubleshot hardware, software, and network connections
 
 ---
 
@@ -105,12 +137,19 @@
 ### 🌐 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jerwin-enrique-3150a6376">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:jerwinenrique14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+<a href="https://jerwin-enrique-portfolio.vercel.app/#/">
+  <img src="https://img.shields.io/badge/Portfolio-00979D?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jerwin-enrique-3150a6376">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jerwinenrique14@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -121,7 +160,7 @@
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=jerwinenrique&icon=0&color=00979D)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=jerwinenrique\&icon=0\&color=00979D)](https://visitcount.itsvg.in)
 
 <sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub>
 
