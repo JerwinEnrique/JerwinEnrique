@@ -18,13 +18,13 @@
 
 ### 🧭 About Me
 
-* 🎓 **Computer Engineering Student** — Jose Rizal University
-* 🤖 Working across **AI/ML, mobile apps (Flutter/Android Studio), web dev, databases, and embedded systems** (PCB design, Raspberry Pi, Arduino)
-* 🛠️ Hands-on **IT support & hardware troubleshooting** experience from OJT
-* 🧑‍💼 Former **CTO, AWS Learning Community (AWSLC) — JRU Chapter** (2024–2025)
-* 🏸 Former **Director of Sports, ICpEP** — two consecutive terms (2023–2026)
-* ☎️ Former **Customer Service Representative @ Teleperformance**
-* 📍 Philippines
+- 🎓 **Computer Engineering Student** — Jose Rizal University
+- 🤖 Working across **AI/ML, mobile apps (Flutter/Android Studio), web dev, databases, and embedded systems** (PCB design, Raspberry Pi, Arduino)
+- 🛠️ Hands-on **IT support & hardware troubleshooting** experience from OJT
+- 🧑‍💼 Former **CTO, AWS Learning Community (AWSLC) — JRU Chapter** (2024–2025)
+- 🏸 Former **Director of Sports, ICpEP** — two consecutive terms (2023–2026)
+- ☎️ Former **Customer Service Representative @ Teleperformance**
+- 📍 Philippines
 
 **Goal:** Build practical tech — software, AI, and hardware — that actually helps people.
 
@@ -36,10 +36,11 @@
 
 <div align="center">
 
-| Badge | Certification                        |
-| ----- | ------------------------------------ |
-| ☁️    | **AWS Certified Cloud Practitioner** |
-| 💻    | **CompTIA ITF+**                     |
+| Badge | Certification                                |
+| ----- | -------------------------------------------- |
+| ☁️    | **AWS Certified Cloud Practitioner**         |
+| 💻    | **CompTIA ITF+**                             |
+| 🧠    | **Claude Certified Developer**               |
 
 </div>
 
@@ -47,6 +48,7 @@
 
 <img src="https://img.shields.io/badge/AWS%20Cloud-Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/CompTIA-ITF%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude%20Certified%20Developer-D4A017?style=for-the-badge&logo=anthropic&logoColor=white"/>
 
 </div>
 
@@ -114,10 +116,10 @@
 
 ### 🏅 Leadership & Achievements
 
-* 🧑‍💻 **CTO — AWS Learning Community (AWSLC) JRU Chapter** (2024–2025) — led technical initiatives and AI/cloud learning sessions
-* 🏸 **Director of Sports — ICpEP** (2023–2026, two consecutive terms)
-* ☎️ **Customer Service Representative — Teleperformance**
-* 🔧 **IT & Hardware Support (OJT)** — installed, configured, and troubleshot hardware, software, and network connections
+- 🧑‍💻 **CTO — AWS Learning Community (AWSLC) JRU Chapter** (2024–2025) — led technical initiatives and AI/cloud learning sessions
+- 🏸 **Director of Sports — ICpEP** (2023–2026, two consecutive terms)
+- ☎️ **Customer Service Representative — Teleperformance**
+- 🔧 **IT & Hardware Support (OJT)** — installed, configured, and troubleshot hardware, software, and network connections
 
 ---
 
